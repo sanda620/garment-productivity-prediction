@@ -113,13 +113,6 @@ manufacturing-demand-forecasting/
 ├── src/
 │   └── data/
 │       └── download_data.py
-│
-├── reports/
-│   ├── actual_vs_predicted.png
-│   ├── residual_distribution.png
-│   ├── department_residuals.png
-│   └── daily_prediction_error.png
-│
 ├── README.md
 ├── requirements.txt
 └── .gitignore
